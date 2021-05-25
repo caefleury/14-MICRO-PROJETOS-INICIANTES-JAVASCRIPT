@@ -1,3 +1,4 @@
+// cria todos os arquivos dos projetos de uma vez
 // var fs = require("fs");
 
 for(i = 1;i <= 14;i++){
